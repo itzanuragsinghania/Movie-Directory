@@ -107,7 +107,7 @@ def main():
 	else:
 		st.subheader("About")
 		st.text("Built with Streamlit")
-		st.text("Jesus Saves @JCharisTech")
+		st.text("Anurag Singhania")
 
 
 
