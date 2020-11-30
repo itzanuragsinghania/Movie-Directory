@@ -7,7 +7,6 @@
 + [Official Docs](https://docs.streamlit.io/en/stable/)
 
 #### About Layouts in Streamlit with Beta_columns
-![](images/layout_in_streamlit_jcharistech.png)
 
 
 #### Screenshots
