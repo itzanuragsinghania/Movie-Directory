@@ -13,7 +13,7 @@
 ![](images/awesome_layout_streamlit03.png)
 
 
-![](images/awesome_layout_streamlit04.png)
+![](images/awesome_layout_streamlit04.png) 
 
 
 #### Thanks For Your Time
