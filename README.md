@@ -140,7 +140,7 @@ Repo  Link: [Movie-Directory](https://github.com/itzanuragsinghania/Movie-Direct
 ## By
 + [Anurag Singhania](https://github.com/itzanuragsinghania)
 
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://www.paypal.com/paypalme/dracarysinc)&nbsp;
 
 
 
